@@ -15,3 +15,6 @@ dependencies:
   name: external-dns
   repository: https://charts.bitnami.com/bitnami
   version: 2.3.3
+- name: jx-app-jacoco
+  repository: http://chartmuseum.jenkins-x.io
+  version: 0.0.123
